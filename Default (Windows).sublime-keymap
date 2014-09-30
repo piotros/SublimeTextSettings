@@ -1,0 +1,10 @@
+[
+	{ "keys": ["alt+up"], "command": "swap_line_up" },
+	{ "keys": ["alt+down"], "command": "swap_line_down" },
+	{ "keys": ["alt+left"], "command": "unindent" },
+	{ "keys": ["alt+right"], "command": "indent" },
+	{ "keys": ["ctrl+shift+up"], "command": "directional_duplicate_line", "args": {"direction": 1} },
+	{ "keys": ["ctrl+shift+down"], "command": "directional_duplicate_line", "args": {"direction": 0} },
+	{ "keys": ["ctrl+shift+r"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+	{ "keys": ["ctrl+shift+."], "command": "erb" }
+]
