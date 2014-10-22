@@ -1,6 +1,7 @@
 {
 	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
-	"file_exclude_patterns": [
+	"file_exclude_patterns":
+	[
 		"*.pyc",
 		"*.pyo",
 		"*.exe",
@@ -25,7 +26,8 @@
 		".#*",
 		"*.jar"
 	],
-	"folder_exclude_patterns": [
+	"folder_exclude_patterns":
+	[
 		".svn",
 		".git",
 		".hg",
@@ -34,7 +36,8 @@
 		"logs"
 	],
 	"font_size": 13,
-	"ignored_packages": [
+	"ignored_packages":
+	[
 		"Vintage"
 	]
 }
