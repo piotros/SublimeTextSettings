@@ -33,7 +33,8 @@
 		".hg",
 		"CVS",
 		".sass-cache",
-		"logs"
+		"logs",
+		"node_modules"
 	],
 	"font_size": 13,
 	"ignored_packages":
