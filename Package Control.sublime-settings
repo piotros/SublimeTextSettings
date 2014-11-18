@@ -1,0 +1,20 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"ApacheConf.tmLanguage",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"DocBlockr",
+		"Emmet",
+		"HTML Underscore Syntax",
+		"HTMLBeautify",
+		"JavaScript Snippets",
+		"JsFormat",
+		"JSHint Gutter",
+		"phpfmt",
+		"SideBarEnhancements",
+		"SublimeERB",
+		"Theme - Flatland"
+	]
+}

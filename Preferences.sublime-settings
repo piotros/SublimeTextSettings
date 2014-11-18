@@ -40,5 +40,9 @@
 	"ignored_packages":
 	[
 		"Vintage"
+	],
+	"rulers":
+	[
+		80
 	]
 }

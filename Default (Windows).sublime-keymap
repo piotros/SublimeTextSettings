@@ -6,5 +6,6 @@
 	{ "keys": ["ctrl+shift+up"], "command": "directional_duplicate_line", "args": {"direction": 1} },
 	{ "keys": ["ctrl+shift+down"], "command": "directional_duplicate_line", "args": {"direction": 0} },
 	{ "keys": ["ctrl+shift+r"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
-	{ "keys": ["ctrl+shift+."], "command": "erb" }
+	{ "keys": ["ctrl+shift+."], "command": "erb" },
+	{ "keys": ["ctrl+alt+c"], "command": "insert_snippet", "args": {"contents": "ć"} }
 ]
