@@ -1,15 +1,25 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Alignment",
+		"Backbone.js",
+		"Backbone.Marionette",
 		"BracketHighlighter",
 		"Color Highlighter",
+		"Console Wrap for js",
 		"DocBlockr",
+		"EditorConfig",
 		"Emmet",
+		"ExtendedTabSwitcher",
 		"FileDiffs",
 		"FreeMarker",
 		"GitGutter",
+		"Handlebars",
 		"HTML Underscore Syntax",
+		"HTML-CSS-JS Prettify",
 		"HTMLBeautify",
 		"Java Velocity",
 		"JavaScript Snippets",
@@ -17,10 +27,10 @@
 		"JsFormat",
 		"JSHint Gutter",
 		"JSHint Inline",
-		"OpenFileList",
+		"Markdown Preview",
 		"Package Control",
+		"Pretty JSON",
 		"Sass",
-		"SassBeautify",
 		"SublimeERB",
 		"Theme - Flatland",
 		"Trimmer",

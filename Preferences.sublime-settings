@@ -36,10 +36,15 @@
 		"logs",
 		"node_modules"
 	],
-	"font_size": 13,
+	"font_size": 14,
 	"ignored_packages":
 	[
-		"Vintage"
+		"HTMLBeautify",
+		"Vintage",
+		"FileDiffs",
+		"JSHint Inline",
+		"Diff",
+		"BracketHighlighter"
 	],
 	"rulers":
 	[
